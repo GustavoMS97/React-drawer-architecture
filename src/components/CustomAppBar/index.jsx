@@ -84,7 +84,6 @@ class CustomAppBar extends Component {
 						<Menu
 							id="menu-appbar"
 							anchorEl={this.state.anchorEl}
-							elevation={0}
 							getContentAnchorEl={null}
 							anchorOrigin={{
 								vertical: "bottom",
